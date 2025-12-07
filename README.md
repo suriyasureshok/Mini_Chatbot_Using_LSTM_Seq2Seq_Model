@@ -1,1 +1,1 @@
-# Mini_ChatBot_Using_LSTM_-Seq2Seq-Model-
+# English_to_Tamil_Translator_Using_LSTM_Seq2Seq_Model
